@@ -1,0 +1,7 @@
+SELECT DISTINCT * 
+FROM students 
+WHERE Gender='Male';
+
+SELECT DISTINCT * 
+FROM students 
+WHERE AGE=22;
